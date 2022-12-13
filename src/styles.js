@@ -12,7 +12,9 @@ export const Container = styled.div`
 
 export const Content = styled.div`
     background-color: #FFF;
-    width: 50%;
+    width: 90%;
+    max-width: 350px;
+    border: 1px solid #000;
 `
 
 export const Row = styled.div`
